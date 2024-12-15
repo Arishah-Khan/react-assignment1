@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./Button";
-import Card from "./card";
+import Card from "./Card";
 
 const Card1 = [
   {
